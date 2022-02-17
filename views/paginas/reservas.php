@@ -1,0 +1,1 @@
+<img style="width: 50%; margin: 0 auto; padding: 5rem 0;" src="build/img/SITIO-EN-CONSTRUCCION.jpg" alt="Sitio en Construcción">
